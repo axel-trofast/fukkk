@@ -270,6 +270,9 @@ article{
         h2{
             font-size: 70px;
         }
+        nav li a{
+            font-size:20px;
+        }
 
     }
 
